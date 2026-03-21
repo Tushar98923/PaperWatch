@@ -44,8 +44,8 @@ The Guardian Watch is an open-source, privacy-first e-ink smartwatch built as a 
 | DIN (MOSI) | GPIO 11 |
 | CLK | GPIO 12 |
 | CS | GPIO 10 |
-| DC | GPIO 8 |
-| RST | GPIO 9 |
+| DC | GPIO 13 |
+| RST | GPIO 14 |
 | BUSY | GPIO 7 |
 | VCC | 3.3V |
 | GND | GND |
